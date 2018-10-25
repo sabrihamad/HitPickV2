@@ -1,0 +1,6 @@
+1098   C[C@@]12C[C@H](O)C3C(CCC4=CC(=O)CC[C@]34C)C2CC[C@]1(O)C(=O)CO
+budesonide   CCCC1O[C@@H]2CC3C4CCC5=CC(=O)C=CC5(C)C4[C@@H](O)CC3(C)[C@@]2(O1)C(=O)CO
+3214824    NNC(=O)CCCCC(=O)NO
+1012151 OC(=O)CNC(=O)c1ccc(cc1)[As](=O)(O)O
+1108481    O=C(Nc1ccccc1)c2cc3ccccc3oc2=O
+1452233 Fc1ccc(cc1)S(=O)(=O)Nc2ccc(C#Cc3ccccc3)cc2                         
